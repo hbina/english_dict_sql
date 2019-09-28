@@ -1,8 +1,4 @@
-# English-Dictionary-SQLite
-English Dictionary in SQLite 
+# English Dictionary Database Dump
 
-I have compiled this SQLite database consisting more than 70k words! If you are wondering what is SQLite and what are the advantages of SQLite, it does not need a SQL Server! 
-
-More information can be found at https://ayeshjayasekara.wordpress.com/blog/
-
-Share & Shine!
+Forked from the original one that works for SQLite but not for others.
+This fork simply added a cleaned one that works (trademark pending) for PostgreSQL.
