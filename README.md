@@ -7,7 +7,7 @@ This fork simply added a cleaned one that works (trademark pending) for PostgreS
 
 Assuming you have PSQL installed, you can simply feed it like so:
 
-`psql your_database_name < entries.sql`
+`psql -d your_database_name < entries.sql`
 
 ## Note
 
